@@ -1,2 +1,2 @@
-# Ms
-MOS(Minimal Operating System)
+# MOS
+MOS(Minimalistic Operating System)
