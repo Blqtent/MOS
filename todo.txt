@@ -1,0 +1,4 @@
+- kernel
+- memory allocation
+- fs
+- command line interface
